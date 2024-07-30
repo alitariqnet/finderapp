@@ -1,1 +1,1 @@
-# mern-auth
+# Finder App
